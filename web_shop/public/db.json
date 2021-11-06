@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "SMART HUB",
+    "price": 49.99,
+    "description": "Najbolji Smart Hub na tržištu",
+    "category": "Hubs",
+    "image": "https://mi.hr/images/thumbs/0003294_mi-smart-home-hub-multimode-gateway_750.jpeg",
+    "rating": { "rate": 3.9, "count": 120 }
+  },
+  {
+    "id": 2,
+    "title": "MOTION SENSOR",
+    "price": 24.99,
+    "description": "Vrhunski Motion Sensor",
+    "category": "Sensors",
+    "image": "https://www.nabava.net/slike/products/66/56/12355666/xiaomi-mi-smart-motion-sensor_4092107f.jpeg",
+    "rating": { "rate": 4.1, "count": 259 }
+  },
+  {
+    "id": 3,
+    "title": "WIRELESS CAMERA",
+    "price": 99.99,
+    "description": "Wireless Camera za vaš dom ili tvrtku",
+    "category": "Cameras",
+    "image": "https://rukminim1.flixcart.com/image/416/416/jievpu80/home-security-camera/k/5/g/v380-wifi-ip-wireless-camera-for-home-security-baby-monitor-original-imaf66kwqyz8etyx.jpeg?q=70",
+    "rating": { "rate": 4.7, "count": 500 }
+  },
+  {
+    "id": 4,
+    "title": "SMOKE SENSOR",
+    "price": 19.99,
+    "description": "Osigurajte se uz Smoke Sensor",
+    "category": "Sensors",
+    "image": "https://www.panasonic-fire-security.com/fs-asset/2017/en/images/products_analog_detectors/pp_detector_smoke_4452_rdax_478x343.jpg",
+    "rating": { "rate": 2.1, "count": 430 }
+  },
+  {
+    "id": 5,
+    "title": "WATER LEAK SENSOR",
+    "price": 14.99,
+    "description": "Ukoliko negdje curi voda, odmah ćete biti obaviješteni",
+    "category": "Sensors",
+    "image": "https://shop.domo-supply.com/4668-large_default/aqara-zigbee-water-leak-sensor.jpg",
+    "rating": { "rate": 4.6, "count": 400 }
+  }
+]
