@@ -8,8 +8,8 @@ import {
 } from "../store/basket";
 
 export default function (props) {
-  const { id, image, title, name, description, price, qnty } = props;
-  const item = { id, image, title, name, description, price, qnty };
+  const { id, image, title, description, price, qnty } = props;
+  const item = { id, image, title, description, price, qnty };
   let isNew = false;
   if (!qnty) {
     item.qnty = 1;
